@@ -1,2 +1,5 @@
 # Volunteering
-See my [LinkedIn profile](http://www.linkedin.com/in/emilysarahtyler) for more details.
+
+See my [LinkedIn](http://www.linkedin.com/in/emilysarahtyler) profile for more details.
+
+[Back](index.md)
