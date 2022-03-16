@@ -1,6 +1,6 @@
 I'm currently looking for work in game or software development.
 
-## [About](about.html)
+## [About](about.md)
 
 ## [Portfolio](portfolio.md)
 
