@@ -1,4 +1,4 @@
-# Emily Tyler
+title:Emily Tyler
 
 I'm currently looking for work in game or software development. This website will serve as an online CV and portfolio.
 
