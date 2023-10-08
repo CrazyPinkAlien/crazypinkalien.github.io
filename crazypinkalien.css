@@ -12,12 +12,12 @@ p {
 
 /* unvisited link */
 a:link {
-    color: white;
+    color: rgb(223, 84, 153);
 }
 
 /* visited link */
 a:visited {
-    color: turquoise;
+    color: lightgrey;
 }
 
 /* mouse over link */
